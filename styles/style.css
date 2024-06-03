@@ -96,7 +96,7 @@
   }
   
   .boton:hover {
-    background: var(--color-5);
+    background: var(--color-1);
     color: var(--color-2);
     border: 1px solid var(--color-2);
     text-decoration: none;
@@ -579,7 +579,7 @@
     height: 175px;
     margin: 0 auto 20px;
     padding: 20px;
-    background-color: var(--color-4);
+    background-color: var(--color-3);
     border-radius: 50%;
     -webkit-box-shadow: 0px 0px 15px -1px rgba(0, 0, 0, 0.40);
     -moz-box-shadow: 0px 0px 15px -1px rgba(0, 0, 0, 0.40);
@@ -649,7 +649,7 @@
   
   section.ceremonia-fiesta .info-col .info-box h6 {
     font-family: var(--fuente-1);
-    color: var(--color-1);
+    color: var(--color-2);
     font-size: 40px;
     font-weight: var(--weight-font-medium);
   }
@@ -657,7 +657,7 @@
   section.ceremonia-fiesta .info-col .info-box p {
     font-family: var(--fuente-2);
     font-weight: var(--weight-font-regular);
-    color: var(--color-6);
+    color: var(--color-5);
     font-size: 20px;
   }
   
@@ -688,11 +688,11 @@
   }
   
   section.ceremonia-fiesta .addeventatc .nameBtn {
-    color: var(--color-5);
+    color: var(--color-1);
   }
   
   section.ceremonia-fiesta .addeventatc:hover .nameBtn {
-    color: var(--color-);
+    color: var(--color-6);
   }
   
   
