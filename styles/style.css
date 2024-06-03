@@ -178,7 +178,7 @@
   }
   
   .modal-transparent .modal-header h3 {
-    color: var(--color-1);
+    color: var(--color-2);
     text-align: center;
     width: 100%;
     font-family: var(--fuente-3);
@@ -988,7 +988,7 @@
   section.footer h4 {
     font-family: var(--fuente-1);
     font-weight: var(--weight-font-regular);
-    color: var(--color-1);
+    color: var(--color-2);
     width: 100%;
     text-align: center;
     font-size: 85px;
