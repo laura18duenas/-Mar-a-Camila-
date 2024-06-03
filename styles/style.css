@@ -831,7 +831,7 @@
   section.fiesta .item-fiesta h3 {
     font-family: var(--fuente-1);
     font-weight: var(--weight-font-medium);
-    color: var(--color-1);
+    color: var(--color-);
     font-size: 40px;
   }
   
