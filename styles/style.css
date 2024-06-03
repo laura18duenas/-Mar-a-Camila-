@@ -254,9 +254,6 @@
     background-size: cover;
     color: var(--color-7);
     position: relative;
-    background-image: url('../images/8227109.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
   
@@ -320,7 +317,7 @@
   section.portada .content-portada span.fecha {
     font-family: var(--fuente-2);
     font-weight: var(--weight-font-regular);
-    color: var(--color-5);
+    color: var(--color-1);
     display: table;
     white-space: nowrap;
     width: 100%;
@@ -347,7 +344,7 @@
   }
   
   section.portada .content-portada h1 {
-    color: var(--color-2);
+    color: var(--color-1);
     font-family: var(--fuente-1);
     font-weight: var(--weight-font-regular);
     width: 100%;
@@ -358,7 +355,7 @@
   }
   
   section.portada .content-portada h2 {
-    color: var(--color-5);
+    color: var(--color-2);
     font-family: var(--fuente-2);
     font-weight: var(--weight-font-regular);
     width: 100%;
@@ -379,7 +376,8 @@
   section.portada .box-nombres-fecha-portada h1 span {
     font-family: var(--fuente-2);
     font-weight: var(--weight-font-regular);
-    background-color: var(--color-2);
+    background-color: var(--color-2); 
+    
     color: var(--color-1);
     display: inline-block;
     border-radius: 50%;
@@ -396,7 +394,8 @@
   }
   
   section.portada .box-frase-portada p {
-    color: var(--color-5);
+     color: var(--color-1); 
+   
     font-family: var(--fuente-1);
     font-weight: var(--weight-font-regular);
     font-size: 28px;
